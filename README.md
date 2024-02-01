@@ -1,6 +1,4 @@
-Certainly! Below is a template for a README file for your GitHub project. It includes an explanation of the project, instructions, and a section for the plot.
 
-```markdown
 # Text Analysis Project
 
 ## Overview
@@ -36,7 +34,7 @@ The script will print the list of emotions extracted from the text and provide s
 
 Additionally, a bar graph (`bargraph.png`) illustrating the distribution of emotions in the text will be saved in the project directory.
 
-![Emotions Bar Graph](bargraph.png)
+![Emotions Bar Graph](Sentimental-analysis/bargraph.png)
 
 ## Contributing
 
